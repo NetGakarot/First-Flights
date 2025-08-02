@@ -24,7 +24,7 @@ audit-name/
 - Build a strong audit portfolio from scratch
 
 ---
-
+#
 ***Thanks for reading***
 ***Gakarot***
 ***Discord: _gakarot***
