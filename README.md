@@ -26,9 +26,13 @@ audit-name/
 ---
 #
 ***Thanks for reading***
+
 ***Gakarot***
+
 ***Discord: _gakarot***
+
 ***Github: Netgakarot***
+
 ***Twitter/X: NetGakarot***
 
 
