@@ -14,8 +14,7 @@ Reviewed by: Gakarot
 | High      | 4     |
 | Medium    | X     |
 | Low       | 2     |
-| Gas       | 1     |
-| Informational | X |
+|-----------|-------|
 
 ---
 
