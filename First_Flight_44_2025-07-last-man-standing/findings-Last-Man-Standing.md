@@ -1,3 +1,23 @@
+
+# 🔎 Audit Findings: First Flight 45------>Last Man Standing
+_Audit Date: 31st July 2025 - 02nd Aug 2025 
+_Reviewed by: Gakarot
+
+---
+
+## ✅ Summary
+
+| Type      | Count |
+|-----------|-------|
+| High      | 4     |
+| Medium    | X     |
+| Low       | 2     |
+| Gas       | X     |
+| Informational | X |
+
+---
+
+
 # [H-1] Game::claimThrone() Permanently Locks Throne Due to Faulty Require Check
 
 
