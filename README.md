@@ -1,4 +1,4 @@
-# 🛡️ First Flight — Personal Audit Repository
+# 🛡️ First Flight: Personal Audit Repository
 
 ***Welcome to my First Flight audit series.***
 This repo contains security audits I performed on real or practice smart contracts as part of my learning journey toward becoming a professional auditor.
